@@ -16,6 +16,6 @@ else
 }
 else
 {
-echo "<form action='' method='post'>Type an animal name: <input type='text' name='animal'/><input type='submit' value='Submit'/></form>";
+echo "<form action='' method='post'>Type an awesome animal name: <input type='text' name='animal'/><input type='submit' value='Submit'/></form>";
 }
 ?>

@@ -22,6 +22,6 @@ $(document).ready(function() {
 
 EOD;
 
-<!-- test edit -->
+// test edit 
 
 ?>

@@ -22,6 +22,4 @@ $(document).ready(function() {
 
 EOD;
 
-// test edit 
-
 ?>
